@@ -1,5 +1,6 @@
 -- onlyhub loader v1
--- compatibility :: https://
+-- compatibility :: https://pastebin.com/Ts9yMu9A
+-- ttd is still a wip
 -- all games below include: 1. a working script, and 2. an anticheat bypass (if necessary)
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
